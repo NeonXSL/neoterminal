@@ -1,7 +1,7 @@
 # NeoTerminal - iOS Terminal Program, based in Apple Shortcuts (In Development)
 
 <p align="center">
-  <img src="logo.png" alt="NeoTerminal Logo" width="500">
+  <img src="logo.png" alt="NeoTerminal Logo" width="250">
 </p>
 
 

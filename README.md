@@ -1,4 +1,4 @@
-# NeoTerminal - iOS Terminal with Apple Shortcuts Integration (In Development)
+# NeoTerminal - iOS Terminal Program, based in Apple Shortcuts (In Development)
 
 Welcome to NeoTerminal, an exciting iOS terminal app currently in development that seamlessly integrates with Apple Shortcuts. NeoTerminal empowers you to take command of your iOS device with the flexibility of a terminal interface and the automation capabilities of Apple Shortcuts.
 

@@ -21,4 +21,4 @@ Welcome to NeoTerminal, an exciting iOS terminal app currently in development th
 
 ## Getting Started
 
-As NeoTerminal is currently in development, it is not yet available. We appreciate your interest and look forward to sharing updates on its availability.
+As NeoTerminal is currently in development. We appreciate your interest and look forward to sharing updates on its availability.
